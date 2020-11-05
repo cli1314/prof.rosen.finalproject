@@ -10,4 +10,4 @@ TODO: No
 
 ## Do you have any questions of your own?
 
-TODO: Not current. Just thinking I'm going to fail this project. :(
+TODO: Not currently. Just thinking I'm going to fail this project. :(
