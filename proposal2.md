@@ -33,9 +33,9 @@ TODO, if applicable
 ### In a sentence (or list of features), define a GOOD/BETTER/BEST outcome for your final project. I.e., what WILL you accomplish no matter what?
 
 TODO: I hope the website will have:
-      Readable/Understable Text
-      Will be Easy to Navigate
-      Just overall not too boring
+      Readable/Understable Text,
+      Will be Easy to Navigate,
+      Just overall not too boring,
       If my mom would allow, I really want to try online ordering but a lot of customers
       get our name wrong with a neighboring resturant with almost the exact same name
       so that'll be too much to ask for.
